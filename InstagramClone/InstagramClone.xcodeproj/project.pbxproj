@@ -16,6 +16,20 @@
 		3217A7992935392A0060CADE /* InstagramCloneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7982935392A0060CADE /* InstagramCloneTests.swift */; };
 		3217A7A32935392A0060CADE /* InstagramCloneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7A22935392A0060CADE /* InstagramCloneUITests.swift */; };
 		3217A7A52935392A0060CADE /* InstagramCloneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7A42935392A0060CADE /* InstagramCloneUITestsLaunchTests.swift */; };
+		3217A7B729353AF80060CADE /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7B629353AF70060CADE /* ExploreViewController.swift */; };
+		3217A7B929353B060060CADE /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7B829353B060060CADE /* CameraViewController.swift */; };
+		3217A7BB29353D2D0060CADE /* NotificationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7BA29353D2D0060CADE /* NotificationsViewController.swift */; };
+		3217A7BD29353D440060CADE /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7BC29353D440060CADE /* ProfileViewController.swift */; };
+		3217A7C229353E950060CADE /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7C129353E950060CADE /* LoginViewController.swift */; };
+		3217A7C429353EA20060CADE /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7C329353EA20060CADE /* RegistrationViewController.swift */; };
+		3217A7C629353F2F0060CADE /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7C529353F2F0060CADE /* PostViewController.swift */; };
+		3217A7C829353F4F0060CADE /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7C729353F4F0060CADE /* EditProfileViewController.swift */; };
+		3217A7CA29353F5E0060CADE /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7C929353F5E0060CADE /* SettingsViewController.swift */; };
+		3217A7CC29353F840060CADE /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7CB29353F840060CADE /* ListViewController.swift */; };
+		3217A7CE29353FA70060CADE /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7CD29353FA70060CADE /* SearchViewController.swift */; };
+		3217A7D029353FCB0060CADE /* SearchResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7CF29353FCB0060CADE /* SearchResultViewController.swift */; };
+		3217A7D2293540370060CADE /* PostEditorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7D1293540370060CADE /* PostEditorViewController.swift */; };
+		3217A7D4293540560060CADE /* PublishPostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3217A7D3293540560060CADE /* PublishPostViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +63,20 @@
 		3217A79E2935392A0060CADE /* InstagramCloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramCloneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3217A7A22935392A0060CADE /* InstagramCloneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramCloneUITests.swift; sourceTree = "<group>"; };
 		3217A7A42935392A0060CADE /* InstagramCloneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramCloneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3217A7B629353AF70060CADE /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		3217A7B829353B060060CADE /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		3217A7BA29353D2D0060CADE /* NotificationsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsViewController.swift; sourceTree = "<group>"; };
+		3217A7BC29353D440060CADE /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		3217A7C129353E950060CADE /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		3217A7C329353EA20060CADE /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		3217A7C529353F2F0060CADE /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
+		3217A7C729353F4F0060CADE /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
+		3217A7C929353F5E0060CADE /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		3217A7CB29353F840060CADE /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		3217A7CD29353FA70060CADE /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		3217A7CF29353FCB0060CADE /* SearchResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultViewController.swift; sourceTree = "<group>"; };
+		3217A7D1293540370060CADE /* PostEditorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostEditorViewController.swift; sourceTree = "<group>"; };
+		3217A7D3293540560060CADE /* PublishPostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublishPostViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,7 +174,8 @@
 		3217A7B3293539500060CADE /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				3217A785293539270060CADE /* HomeViewController.swift */,
+				3217A7BF29353E790060CADE /* Other */,
+				3217A7BE29353D6E0060CADE /* Core Tabs */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -165,6 +194,43 @@
 				3217A78C293539290060CADE /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		3217A7BE29353D6E0060CADE /* Core Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				3217A785293539270060CADE /* HomeViewController.swift */,
+				3217A7B629353AF70060CADE /* ExploreViewController.swift */,
+				3217A7B829353B060060CADE /* CameraViewController.swift */,
+				3217A7BA29353D2D0060CADE /* NotificationsViewController.swift */,
+				3217A7BC29353D440060CADE /* ProfileViewController.swift */,
+			);
+			path = "Core Tabs";
+			sourceTree = "<group>";
+		};
+		3217A7BF29353E790060CADE /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				3217A7C029353E7F0060CADE /* Onboarding */,
+				3217A7C529353F2F0060CADE /* PostViewController.swift */,
+				3217A7C729353F4F0060CADE /* EditProfileViewController.swift */,
+				3217A7C929353F5E0060CADE /* SettingsViewController.swift */,
+				3217A7CB29353F840060CADE /* ListViewController.swift */,
+				3217A7CD29353FA70060CADE /* SearchViewController.swift */,
+				3217A7CF29353FCB0060CADE /* SearchResultViewController.swift */,
+				3217A7D1293540370060CADE /* PostEditorViewController.swift */,
+				3217A7D3293540560060CADE /* PublishPostViewController.swift */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		3217A7C029353E7F0060CADE /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				3217A7C129353E950060CADE /* LoginViewController.swift */,
+				3217A7C329353EA20060CADE /* RegistrationViewController.swift */,
+			);
+			path = Onboarding;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,9 +364,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3217A7C829353F4F0060CADE /* EditProfileViewController.swift in Sources */,
+				3217A7B729353AF80060CADE /* ExploreViewController.swift in Sources */,
+				3217A7D4293540560060CADE /* PublishPostViewController.swift in Sources */,
+				3217A7B929353B060060CADE /* CameraViewController.swift in Sources */,
 				3217A786293539270060CADE /* HomeViewController.swift in Sources */,
+				3217A7C429353EA20060CADE /* RegistrationViewController.swift in Sources */,
+				3217A7D2293540370060CADE /* PostEditorViewController.swift in Sources */,
+				3217A7C629353F2F0060CADE /* PostViewController.swift in Sources */,
+				3217A7BB29353D2D0060CADE /* NotificationsViewController.swift in Sources */,
+				3217A7D029353FCB0060CADE /* SearchResultViewController.swift in Sources */,
+				3217A7C229353E950060CADE /* LoginViewController.swift in Sources */,
+				3217A7CE29353FA70060CADE /* SearchViewController.swift in Sources */,
+				3217A7BD29353D440060CADE /* ProfileViewController.swift in Sources */,
 				3217A782293539270060CADE /* AppDelegate.swift in Sources */,
 				3217A784293539270060CADE /* SceneDelegate.swift in Sources */,
+				3217A7CC29353F840060CADE /* ListViewController.swift in Sources */,
+				3217A7CA29353F5E0060CADE /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
